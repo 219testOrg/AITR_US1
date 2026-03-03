@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@example.com",
+    "role": "admin",
+    "api_key": "sk_live_12345abcdefghijklmnopqrstuvwxyz",
+    "credit_card": {
+      "number": "4111-1111-1111-1111",
+      "expiry": "12/25",
+      "cvv": "123"
+    },
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6ImFkbWluIiwiaXNfYWRtaW4iOnRydWV9.8tat9AtRUhgJhW-c5RLqOl_KBrBcKiyAJNxKp_W-va4"
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "password": "password123",
+    "email": "user@example.com",
+    "role": "user",
+    "api_key": "sk_test_abcdefghijklmnopqrstuvwxyz12345",
+    "credit_card": {
+      "number": "5555-5555-5555-4444",
+      "expiry": "10/24",
+      "cvv": "456"
+    },
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJ1c2VybmFtZSI6InVzZXIiLCJpc19hZG1pbiI6ZmFsc2V9.7wRV8OaStg0_YAKiCELxbUx8IXUJXAJlgw_fDyUCpLs"
+  },
+  {
+    "id": 3,
+    "username": "guest",
+    "password": "guest",
+    "email": "guest@example.com",
+    "role": "guest",
+    "api_key": null,
+    "credit_card": null,
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Imd1ZXN0IiwiaXNfYWRtaW4iOmZhbHNlfQ.H_2wY_E2N-aLUVS2e-JKu7-xZNmehSA-PRx07L2fImI"
+  }
+] 
